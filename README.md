@@ -22,16 +22,16 @@ I learned how matrices works thanks to [r/MechanicalKeyboards/](https://www.redd
 
 ## Software/equipment/services used
 
-For schematics and pcb design, I used [Kicad](https://kicad-pcb.org/).
-For pcb manufacturing, I went to [JLCPCB](https://jlcpcb.com/).
-For components, I went to [Digikey](https://www.digikey.com/) and [RS components](https://www.rs-online.com/)
-For soldering tools and materials, I bought from divers Amazon sellers :
-* [Soldering tools](https://www.amazon.fr/gp/product/B07PLTB46N/ref=ppx_yo_dt_b_asin_title_o06_s01?ie=UTF8&psc=1)
-* [Flux](https://www.amazon.fr/gp/product/B002OB4CIE/ref=ppx_yo_dt_b_asin_title_o05_s00)
-* [Solder](https://www.amazon.fr/gp/product/B07PDFF5NZ/ref=ppx_yo_dt_b_asin_title_o06_s01)
-For plate and case design, I used [Blender](https://www.blender.org/),
-For plate and case printing, I used my [Ender3](https://www.ender3.fr/) 3D printer.
-for switches and stabilizers, I bought from [kbdfans](https://kbdfans.com/)
+* For schematics and pcb design, I used [Kicad](https://kicad-pcb.org/).
+* For pcb manufacturing, I went to [JLCPCB](https://jlcpcb.com/).
+* For components, I went to [Digikey](https://www.digikey.com/) and [RS components](https://www.rs-online.com/)
+* For soldering tools and materials, I bought from divers Amazon sellers :
+    * [Soldering tools](https://www.amazon.fr/gp/product/B07PLTB46N/ref=ppx_yo_dt_b_asin_title_o06_s01?ie=UTF8&psc=1)
+    * [Flux](https://www.amazon.fr/gp/product/B002OB4CIE/ref=ppx_yo_dt_b_asin_title_o05_s00)
+    * [Solder](https://www.amazon.fr/gp/product/B07PDFF5NZ/ref=ppx_yo_dt_b_asin_title_o06_s01)
+* For plate and case design, I used [Blender](https://www.blender.org/),
+* For plate and case printing, I used my [Ender3](https://www.ender3.fr/) 3D printer.
+* for switches and stabilizers, I bought from [kbdfans](https://kbdfans.com/)
 
 ## Schematics
 
