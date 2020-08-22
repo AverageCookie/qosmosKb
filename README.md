@@ -50,8 +50,8 @@ It was the first PCB I designed, I'm pretty proud but I guess there might be a p
 
 I have not soldered diodes for now because of the issues you will learn about in the next chapter.
 
-![USB cable soldering](/soldering/usb-cable.png)
-![PCB](/soldering/micro-comp.png)
+![USB cable soldering](/soldering/usb-cable.jpg)
+![PCB](/soldering/micro-comp.jpg)
 
 
 ## Flashing Firmware
